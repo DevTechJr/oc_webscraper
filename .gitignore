@@ -1,0 +1,18 @@
+# Ignore virtual environment directories
+.venv/
+venv/
+env/
+
+# Ignore environment variable files
+.env
+
+# Ignore macOS specific files
+.DS_Store
+
+# Ignore Python cache and compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Ignore other system-specific files
+Thumbs.db

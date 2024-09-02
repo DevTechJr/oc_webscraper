@@ -1,0 +1,3 @@
+pyairtable
+colorama
+dotenv
